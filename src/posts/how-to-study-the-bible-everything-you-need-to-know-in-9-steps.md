@@ -1,7 +1,8 @@
 ---
 date: 2020-02-10
 title: 'How to Study The Bible: Everything You Need to Know in 9 Steps'
-tags: []
+tags:
+- Engaging Scripture
 
 ---
 So you want to study the Bible. Becoming a skillful student of the Word can change your life- not to mention transform the lives of your family, your church, and even an entire generation after you.
