@@ -15,3 +15,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/posts/how-to-study-the-bible-everything-you-need-to-know-in-9-steps.md
